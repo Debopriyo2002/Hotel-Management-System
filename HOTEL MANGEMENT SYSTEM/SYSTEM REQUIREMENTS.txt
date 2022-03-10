@@ -1,0 +1,33 @@
+sOFTWARE REQUIREMENTS:
+----------------------
+
+1. PYTHON 3.8 OR ABOVE
+2. MYSQL 5.7 OR ABOVE
+3. MYSQL CONNECTOR PYTHON
+
+Prerequisites before installing MySQL Connector Python
+You need root or administrator privileges to perform the installation process.
+Python must be installed on your machine.
+Note: – (MySQL Connector Python requires python to be in the system’s PATH. Installation fails if it doesn’t find Python.
+On Windows, If Python doesn’t exist in the system’s PATH, please)
+
+<><><><><><><><><><><><>
+
+HARDWARE REQUIREMENTS:
+**********************
+
+ Recommended System Requirements
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Processors: Intel® Core™ i3 processor 4300M at 2.60 GHz.
+Disk space: 2 to 4 GB.
+Operating systems: Windows® 10, MACOS, and UBUNTU.
+
+
+  Minimum System Requirements
+===============================
+
+Processors: Intel Atom® processor or Intel® Core™ i3 processor.
+Disk space: 1 GB.
+Operating systems: Windows 7 or later, MACOS, and UBUNTU.
+
